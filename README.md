@@ -2,7 +2,6 @@
 
 Este aplicativo foi desenvolvido em Python utilizando **Streamlit** para facilitar o controle e a organização de transações financeiras. Com uma interface simples e intuitiva, é possível inserir dados de transações, visualizar uma planilha e exportá-la em formato Excel.
 
-![Banner](src/images/header_img.jpg)
 
 ## 📋 Funcionalidades
 
