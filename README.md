@@ -5,7 +5,7 @@ Este aplicativo foi desenvolvido em Python utilizando **Streamlit** para facilit
 
 ## 📋 Funcionalidades
 
-- **Inserção de Transações**: Permite inserir transações financeiras em um campo de texto, respeitando o formato especificado. Cada transação deve estar em uma linha e seguir o modelo: `31/10/2024 PIX_CRED RECEBIMENTO PIX 123456789 Nome Completo 49,00`.
+- **Inserção de Transações**: Permite inserir transações financeiras em um campo de texto, respeitando o formato especificado. Cada transação deve estar em uma linha e seguir o modelo: `31/10/2024 PIX_CRED RECEBIMENTO PIX 1234***** Nome Completo 49,00`.
 - **Cálculo de Saldo Inicial**: O usuário pode inserir o saldo inicial a ser considerado na planilha.
 - **Visualização das Transações**: As transações são exibidas em uma tabela interativa que facilita a análise e edição.
 - **Exportação em Excel**: As transações podem ser exportadas para um arquivo `.xlsx` com apenas um clique.
