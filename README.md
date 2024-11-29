@@ -14,7 +14,7 @@ Este aplicativo foi desenvolvido em Python utilizando **Streamlit** para facilit
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/ArkaNiightt/Projeto_Transacoes.git
    ```
 
 2. Instale as dependências necessárias utilizando **pip**:
