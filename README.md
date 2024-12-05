@@ -79,7 +79,7 @@ Após a inserção das transações, você poderá visualizar todas as informaç
 
 ## 💼 Autor
 
-App desenvolvido por [Seu Nome](https://github.com/seu_usuario) para facilitar o controle de transações financeiras, com foco em simplicidade e praticidade.
+App desenvolvido por [João Augusto](https://github.com/ArkaNiightt) para facilitar o controle de transações financeiras, com foco em simplicidade e praticidade.
 
 ## 📜 Licença
 
